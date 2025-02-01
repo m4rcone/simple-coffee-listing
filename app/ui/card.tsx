@@ -50,7 +50,7 @@ export default function Card({ data }: CardProps) {
             <Image
               width={24}
               height={24}
-              src="/resources/star_fill.svg"
+              src="/resources/star.svg"
               alt="Estrela"
             />
             <span className="text-sm font-medium text-zinc-500">
